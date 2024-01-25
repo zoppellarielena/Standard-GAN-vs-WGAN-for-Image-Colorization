@@ -9,4 +9,4 @@ Team members:
 - Tonazzo Valentina: https://github.com/ValentinaTonazzo
 - Zoppellari Elena: https://github.com/zoppellarielena
 
-In the repository also the paper about the project and a brief presentation of the project are provided as pdf file.
+In the repository also the report about the project and a brief presentation of the project are provided as pdf file.
