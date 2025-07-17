@@ -4,7 +4,7 @@ The experiments are conducted on the Tiny-ImageNet-200 dataset, offering insight
 The study showcases the adaptability of GANs for image processing and provides valuable comparisons between WGAN and GAN models. 
 It also highlights the exploration of the Tiny-ImageNet-200 dataset for image colorization.
 
-This project was developed in February 2023 for the course *Neural Networks and Deep Learning* at the University of Padova (academic year: 2022-2023).
+This project was developed for the course *Neural Networks and Deep Learning* at the University of Padova.
 Team members:
 - Tonazzo Valentina: https://github.com/ValentinaTonazzo
 - Zoppellari Elena: https://github.com/zoppellarielena
